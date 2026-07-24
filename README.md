@@ -1,12 +1,13 @@
 # 👨‍💻 Guilherme Oliveira
 
-**`Desenvolvedor Front-end em foromação`**
+**`Desenvolvedor Front-end em formação`**
 
-Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo sebrae, ainda comerciante autonomo desde 2015, estou me formando em teologia pela unicesumar. Fiz cursos de informática na destak treinamentos, hardware & montagem e manutenção de computadores na microlins e curso de inglês na microlins. Atualmente, estou estudando Front-End | Focado em HTML, CSS e JavaScript | Buscando minha primeira oportunidade na área.
+Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo SEBRAE e atuo de forma autônoma desde 2015. Atualmente, estou me formando em Teologia pela UniCesumar. 
 
-        />
-    </a> 
-    <a href="https://github.com/Guilherme-Oliveira-027?tab=stars">
+Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e Inglês pela Microlins e Destak Treinamentos. No momento, estou focado em estudar Front-End (HTML, CSS e JavaScript), buscando minha primeira oportunidade na área.
+
+<p align="left">
+    <a href="https://github.com">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -26,58 +27,58 @@ Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+<p align="left">
+    <img 
+        alt="HTML"
+        title="HTML" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        alt="CSS" 
+        title="CSS"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        alt="Git" 
+        title="Git"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://jsdelivr.net" 
+    />
+    <img 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+</p>
 
-
-<br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://vercel.app" 
   />
-
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://vercel.app" 
   />
 </p>
