@@ -4,29 +4,16 @@
 
 Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo sebrae, ainda comerciante autonomo desde 2015, estou me formando em teologia pela unicesumar. Fiz cursos de informática na destak treinamentos, hardware montagem e manutenção na microlins e curso de inglês na microlins. Atualmente, estou estudando Front-End | Focado em HTML, CSS e JavaScript | Buscando minha primeira oportunidade na área. 
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://shields.io"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Visualizações no YouTube" 
-            src="https://shields.io"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Guilherme-Oliveira-027?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://shields.io"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Guilherme-Oliveira-027?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
