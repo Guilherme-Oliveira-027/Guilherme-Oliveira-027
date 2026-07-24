@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end em foromação`**
 
-Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo sebrae, ainda comerciante autonomo desde 2015, estou me formando em teologia pela unicesumar. Fiz cursos de informática na destak treinamentos, hardware montagem e manutenção na microlins e curso de inglês na microlins. Atualmente, estou estudando Front-End | Focado em HTML, CSS e JavaScript | Buscando minha primeira oportunidade na área. 
+Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo sebrae, ainda comerciante autonomo desde 2015, estou me formando em teologia pela unicesumar. Fiz cursos de informática na destak treinamentos, hardware montagem e manutenção na microlins e curso de inglês na microlins. Atualmente, estou estudando Front-End | Focado em HTML, CSS e JavaScript | Buscando minha primeira oportunidade na área.
 
         />
     </a> 
