@@ -72,10 +72,20 @@ Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e
     />
 </p>
 
-<br/>
+---
 
 ### 📊 Estatísticas
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilherme-oliveira-027&theme=dark&locale=pt_BR)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-027&show_icons=true&theme=dark&locale=pt_BR)
+
 ![snake animation](https://github.com/Guilherme-Oliveira-027/Guilherme-Oliveira-027/raw/output/ocean.gif)
+
+---
+
+### 💼 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guilherme-Oliveira-027)
