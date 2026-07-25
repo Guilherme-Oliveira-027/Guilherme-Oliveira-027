@@ -78,4 +78,4 @@ Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=guilherme-oliveira-027&theme=dark&locale=pt_BR)
 
-![snake animation](https://github.com/Guilherme-Oliveira-027/Guilherme-Oliveira-027/raw/output/github-snake-dark.svg)
+![snake animation](https://github.com/Guilherme-Oliveira-027/Guilherme-Oliveira-027/raw/output/ocean.gif)
