@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-end em formação`**
 
-Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo SEBRAE e atuo de forma autônoma desde 2015. Atualmente, estou me formando em Teologia pela UniCesumar. 
+Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo SEBRAE e atuo d[...]
 
-Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e Inglês pela Microlins e Destak Treinamentos. No momento, estou focado em estudar Front-End (HTML, CSS e JavaScript), buscando minha primeira oportunidade na área.
+Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e Inglês pela Microlins e Destak Treinamentos. No momento, estou focado em estudar Front-End (HTML, CSS e JavaScript)[...]
 
 <p align="left">
     <a href="https://github.com/Guilherme-Oliveira-027">
@@ -50,6 +50,34 @@ Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
+        alt="TypeScript" 
+        title="TypeScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        alt="React" 
+        title="React"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        alt="NestJS" 
+        title="NestJS"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" 
+    />
+    <img 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
         alt="VSCode" 
         title="Visual Studio Code"
         width="30px" 
@@ -62,13 +90,6 @@ Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </p>
 
