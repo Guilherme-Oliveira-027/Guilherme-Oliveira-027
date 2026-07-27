@@ -2,9 +2,9 @@
 
 **`Desenvolvedor Front-end em formação`**
 
-Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo SEBRAE e atuo d[...]
+Me chamo Guilherme Santos de Oliveira, tenho 29 anos e sou natural do Espírito Santo. Concluí o ensino médio em escola pública, sou comerciante microempreendedor individual pelo SEBRAE e atuo de forma autônoma desde 2015. Atualmente, estou me formando em Teologia pela UniCesumar.
 
-Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e Inglês pela Microlins e Destak Treinamentos. No momento, estou focado em estudar Front-End (HTML, CSS e JavaScript)[...]
+Fiz cursos de Informática, Hardware (Montagem e Manutenção de Computadores) e Inglês pela Microlins e Destak Treinamentos. No momento, estou focado em estudar Front-End (HTML, CSS e JavaScript), buscando minha primeira oportunidade na área.
 
 <p align="left">
     <a href="https://github.com/Guilherme-Oliveira-027">
